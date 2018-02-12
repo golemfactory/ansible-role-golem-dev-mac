@@ -1,0 +1,27 @@
+galaxy_info:
+  author: Karol Tomala
+  description: Golem Development for setting up BuildBot Worker on Mac OS X
+  company: Golem Factory GmbH
+  license: BSD
+  min_ansible_version: 2.4
+
+  platforms:
+  - name: macOS
+    versions:
+    - Sierra
+    - 10.11
+    - 10.12
+
+  galaxy_tags:
+    - golem
+    - golem-dev
+    - golem-dev-mac
+    - golem-dev-macos
+    - golem_dev
+    - golem_dev_mac
+    - golem_dev_macos
+    - buildbot
+    - dev
+    - development
+    - mac
+    - macos
