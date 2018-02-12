@@ -9,6 +9,8 @@ galaxy_info:
   - name: macOS
     versions:
     - Sierra
+  - name: MacOSX
+    versions:
     - 10.11
     - 10.12
 
